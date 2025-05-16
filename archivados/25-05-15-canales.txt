@@ -1,0 +1,55 @@
+ <!--  -->
+        <button class="channel-btn" onclick="loadChannel(' ')">
+            <img src=" " alt=" ">
+        </button>
+		
+		https://la12hd.com/vivo/canales.php?stream=foxsports
+		
+		https://la12hd.com/vivo/canales.php?stream=foxsports2
+		
+		https://la12hd.com/vivo/canales.php?stream=foxsports3
+		
+		
+ <!-- Fox Sports 1 Arg | la12hd -->
+	<button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsports')">
+		<img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt=" Fox Sports"> Fox Sports 1 (Arg)   
+	</button>
+	
+<!-- Fox Sports 2 Arg | la12hd -->
+	<button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsports2')">
+		<img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt=" Fox Sports"> Fox Sports 2 (Arg)   
+	</button>
+	
+ <!-- Fox Sports 3 Arg | la12hd -->
+	<button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsports3')">
+		<img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt=" Fox Sports"> Fox Sports 3(Arg)   
+	</button>	
+
+https://la12hd.com/vivo/canales.php?stream=foxsportsmx
+
+https://la12hd.com/vivo/canales.php?stream=foxsports2mx
+
+https://la12hd.com/vivo/canales.php?stream=foxsports3mx
+
+https://la12hd.com/vivo/canales.php?stream=foxsportspremium
+
+
+ <!-- Fox Sports 1(Mex) | la12hd-->
+        <button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsportsmx')">
+            <img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt="Fox Sports 1(Mex)"> Fox Sports 1 (Mex)
+        </button>
+		
+ <!-- Fox Sports 2(Mex) | la12hd-->
+        <button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsports2mx')">
+            <img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt="Fox Sports 2(Mex)"> Fox Sports 2 (Mex)
+        </button> 
+		
+ <!-- Fox Sports 3(Mex) | la12hd-->
+        <button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsports3mx')">
+            <img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt="Fox Sports 3(Mex)"> Fox Sports 3 (Mex)
+        </button>
+		
+ <!-- Fox Sports Premium(Mex) | la12hd-->
+        <button class="channel-btn" onclick="loadChannel('https://la12hd.com/vivo/canales.php?stream=foxsportspremium')">
+            <img src="https://pbs.twimg.com/profile_images/1821916357304225792/dvjeiu4o_400x400.jpg" alt="Fox Sports Premium(Mex)"> Fox Sports Premium (Mex)
+        </button>
